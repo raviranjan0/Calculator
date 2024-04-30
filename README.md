@@ -9,7 +9,7 @@ This is a simple calculator project created using HTML and CSS. It provides basi
 ## Demo
 You can see a live demo of the calculator here.
 
-Installation
+# Installation
 To run this project locally, follow these steps:
 1.Clone this repository: git clone https://github.com/raviranjan0/calculator.git
 2.Navigate to the project directory: cd calculator
@@ -23,9 +23,11 @@ To run this project locally, follow these steps:
 # Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Make your changes.
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
-Create a new Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature/new-feature).
+- Make your changes.
+- Commit your changes (git commit -am 'Add new feature').
+- Push to the branch (git push origin feature/new-feature).
+- Create a new Pull Request.
+
+## Thank You

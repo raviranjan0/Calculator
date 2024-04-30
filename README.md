@@ -14,11 +14,13 @@ To run this project locally, follow these steps:
 1.Clone this repository: git clone https://github.com/raviranjan0/calculator.git
 2.Navigate to the project directory: cd calculator
 3.Open index.html in your preferred web browser.
-Usage
-Enter numbers using the on-screen buttons.
-Click on the operator buttons (+, -, *, /) to perform calculations.
-Click on the "C" button to clear the input field.
-Contributing
+
+# Usage
+- Enter numbers using the on-screen buttons.
+- Click on the operator buttons (+, -, *, /) to perform calculations.
+- Click on the "C" button to clear the input field.
+
+# Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 Fork the repository.

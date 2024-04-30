@@ -2,25 +2,25 @@
 
 This is a simple calculator project created using HTML and CSS. It provides basic arithmetic functions such as addition, subtraction, multiplication, and division.
 
-## Features
+## Features :
 - User-friendly interface.
 - Supports addition, subtraction, multiplication, and division operations.
 - Responsive design for various screen sizes.
-## Demo
+## Demo :
 You can see a live demo of the calculator here.
 
-# Installation
+## Installation :
 To run this project locally, follow these steps:
 1.Clone this repository: git clone https://github.com/raviranjan0/calculator.git
 2.Navigate to the project directory: cd calculator
 3.Open index.html in your preferred web browser.
 
-# Usage
+## Usage :
 - Enter numbers using the on-screen buttons.
 - Click on the operator buttons (+, -, *, /) to perform calculations.
 - Click on the "C" button to clear the input field.
 
-# Contributing
+## Contributing :
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 - Fork the repository.

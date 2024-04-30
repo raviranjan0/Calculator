@@ -14,9 +14,9 @@ https://github.com/raviranjan0/Calculator/assets/100368738/9b332ffe-e586-4056-b4
 
 ## Installation :
 To run this project locally, follow these steps:
-1.Clone this repository: git clone https://github.com/raviranjan0/calculator.git
-2.Navigate to the project directory: cd calculator
-3.Open index.html in your preferred web browser.
+- 1.Clone this repository: git clone https://github.com/raviranjan0/calculator.git
+- 2.Navigate to the project directory: cd calculator
+- 3.Open index.html in your preferred web browser.
 
 ## Usage :
 - Enter numbers using the on-screen buttons.

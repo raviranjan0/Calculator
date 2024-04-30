@@ -9,6 +9,9 @@ This is a simple calculator project created using HTML and CSS. It provides basi
 ## Demo :
 You can see a live demo of the calculator here.
 
+https://github.com/raviranjan0/Calculator/assets/100368738/9b332ffe-e586-4056-b4d6-e8b4873fdfbb
+
+
 ## Installation :
 To run this project locally, follow these steps:
 1.Clone this repository: git clone https://github.com/raviranjan0/calculator.git

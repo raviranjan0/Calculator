@@ -23,6 +23,10 @@ To run this project locally, follow these steps:
 - Click on the operator buttons (+, -, *, /) to perform calculations.
 - Click on the "C" button to clear the input field.
 
+## Technology used :
+- HTML
+- CSS
+
 ## Contributing :
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 

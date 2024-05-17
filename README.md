@@ -1,6 +1,6 @@
 # Welcome to the Calculator Project !
 
-This is a simple calculator project created using HTML and CSS. It provides basic arithmetic functions such as addition, subtraction, multiplication, and division.  .........
+This is a simple calculator project created using HTML and CSS. It provides basic arithmetic functions such as addition, subtraction, multiplication, and division.  ........
 
 ## Features :
 - User-friendly interface.

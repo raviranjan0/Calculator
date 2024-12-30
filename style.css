@@ -44,6 +44,8 @@
   display: flex;
   justify-content: flex-end;
   margin: 1rem 0;
+  font-size: 4.7rem;
+  color: white;
 }
 
 form .display input {
@@ -60,3 +62,4 @@ form input.equal {
 form input.operator {
   color: #33ffd8;
 }
+

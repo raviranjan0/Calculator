@@ -26,6 +26,7 @@ To run this project locally, follow these steps:
 ## Technology used :
 - HTML
 - CSS
+- JavaScript
 
 ## Contributing :
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
